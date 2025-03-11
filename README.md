@@ -1,10 +1,12 @@
-🏃‍♂️ Escape Room Game
+🏃‍♂️ #Escape Room Game
 
 📌 Overview
 
-Escape Room Game is a simple and interactive puzzle adventure game where the player must explore different rooms, find hidden items, and unlock the secret 4-digit password to escape.
+Escape Room Game is a simple and interactive puzzle adventure game where the player must explore different rooms, 
+find hidden items, and unlock the secret 4-digit password to escape.
 
-Developed with Python and Tkinter, this game features a user-friendly graphical interface (GUI) with clickable buttons for exploration and interactions.
+Developed with Python and Tkinter, this game features a user-friendly graphical interface (GUI) 
+with clickable buttons for exploration and interactions.
 
 
 🎮 How to Play
