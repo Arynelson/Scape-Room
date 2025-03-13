@@ -82,8 +82,8 @@ python Main.py
 
 The game window will open. Start playing! 🎮
 
-👨‍💻 Author - Ary Hauffe Neto
+
 📧 Email: aryhauffeneto@gmail.com
-🐙 GitHub: Arynelson
+
 
 This project is open-source. Feel free to contribute or modify it as you like! 😊🚀
